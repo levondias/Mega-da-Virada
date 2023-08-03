@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Mega Sena da Virada</title>
+</head>
+<body>
+<h1>Mega Sena da Virada</h1>
+<h2>Lista de participantes</h2>
+<table>
+<tr>
+<th>Nome</th>
+<th>Números</th>
+</tr>
+<tr>
+<td>João da Silva</td>
+<td>1, 2, 3, 4, 5, 6</td>
+</tr>
+<tr>
+<td>Maria José</td>
+<td>7, 8, 9, 10, 11, 12</td>
+</tr>
+<tr>
+<td>José Carlos</td>
+<td>13, 14, 15, 16, 17, 18</td>
+</tr>
+</table>
+</body>
+</html>
